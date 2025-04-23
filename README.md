@@ -57,8 +57,7 @@ El objetivo es sobrevivir el mayor tiempo posible mientras acumulas puntos destr
 
 ## Instalación
 
-1. Asegúrate de tener Python instalado en tu sistema.
-2. Instala PyGame usando pip:
+1. PyGame:
 
    ```bash
    pip install pygame
